@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-text-link: #1663bb;
+  --color-text-blue: #0046b1;
+  --color-text-primary: rgb(47, 48, 55);
+}
